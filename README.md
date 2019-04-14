@@ -1,0 +1,2 @@
+# AkroNetworking
+AkroNetworking is a wrapper library for [lidgren-network-gen3](https://github.com/lidgren/lidgren-network-gen3). It is an event based solution that uses pluggable interfaces for every aspect of the message sending process (connecting, authenticating, sending messages).
